@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/image/bmp"
 
-	"rao/modules/converter"
+	"github.com/v-grabko1999/converter"
 )
 
 func init() {

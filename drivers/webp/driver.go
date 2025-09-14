@@ -6,7 +6,7 @@ import (
 	"image/jpeg"
 	"image/png"
 
-	"rao/modules/converter"
+	"github.com/v-grabko1999/converter"
 
 	"golang.org/x/image/webp"
 )

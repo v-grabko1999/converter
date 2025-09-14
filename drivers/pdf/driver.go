@@ -7,7 +7,7 @@ import (
 	"image/png"
 	"time"
 
-	"rao/modules/converter"
+	"github.com/v-grabko1999/converter"
 
 	"github.com/google/uuid"
 	"github.com/spf13/afero"

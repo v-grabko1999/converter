@@ -9,7 +9,7 @@ import (
 	"image/jpeg"
 	"image/png"
 
-	"rao/modules/converter"
+	"github.com/v-grabko1999/converter"
 )
 
 func init() {

@@ -7,11 +7,11 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	converter "rao/modules/converter"
-	_ "rao/modules/converter/drivers/bmp"
-	_ "rao/modules/converter/drivers/jpg"
-	_ "rao/modules/converter/drivers/pdf"
-	_ "rao/modules/converter/drivers/webp"
+	converter "github.com/v-grabko1999/converter"
+	_ "github.com/v-grabko1999/converter/drivers/bmp"
+	_ "github.com/v-grabko1999/converter/drivers/jpg"
+	_ "github.com/v-grabko1999/converter/drivers/pdf"
+	_ "github.com/v-grabko1999/converter/drivers/webp"
 )
 
 func TestConvertFilesToPNG(t *testing.T) {
